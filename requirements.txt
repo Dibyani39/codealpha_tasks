@@ -2,3 +2,7 @@
 streamlit
 gTTS
 deep-translator
+nltk
+pandas
+scikit-learn
+
